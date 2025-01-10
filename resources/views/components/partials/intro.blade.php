@@ -1,11 +1,11 @@
 <section 
   class="bg-intro bg-center bg-no-repeat bg-cover relative before:content-[''] before:block before:w-full before:h-full before:bg-white/80 before:absolute before:top-0 before:left-0 before:opacity-60 before:z-10">
-  <x-icons.logo class="w-full h-auto max-w-[300px] relative xl:left-75 xl:top-75 z-20 text-white" />
-  <x-layout.inner class="relative z-20 xl:py-80 xl:pt-160">
-    <h1 class="font-bold xl:text-4xl leading-[1.1] xl:mb-80">
-      Ganzheitliche Begleitung für Gesundheit und Lebensfreude
+  <x-icons.logo class="w-full h-auto max-w-[240px] md:max-w-[300px] relative left-20 top-20 md:top-30 md:left-30 xl:left-75 xl:top-75 z-20 text-white" />
+  <x-layout.inner class="relative z-20 pt-60 pb-40 md:py-80 xl:pt-160">
+    <h1 class="font-bold text-xl md:text-2xl lg:text-3xl xl:text-4xl leading-[1.1] mb-30 xl:mb-80 text-pretty">
+      Ganzheitliche Begleitung für<br>Gesundheit und Lebensfreude
     </h1>
-    <h2 class="xl:text-lg leading-[1.2] xl:mb-30 max-w-prose">
+    <h2 class="text-sm md:text-md xl:text-lg leading-[1.2] mb-20 xl:mb-30 max-w-prose text-pretty">
       Mit einem gesunden Körper und innerer Stärke den Alltag meistern
     </h2>
     <p class="max-w-prose">
@@ -14,8 +14,8 @@
     <p class="max-w-prose">
       <strong>Diese ganzheitliche Methode unterstützt unter anderem:</strong>
     </p>
-    <div class="md:grid md:grid-cols-12 md:gap-20 xl:gap-40">
-      <ul class="md:col-span-6">
+    <div class="md:grid md:grid-cols-12 md:gap-30 xl:gap-40">
+      <ul class="md:col-span-6 !mb-0">
         <li>Bei Schmerzsyndromen, z. B. Rückenschmerzen</li>
         <li>Bei Müdigkeit und fehlender Energie</li>
         <li>Bei Heilungsprozessen nach Verletzungen oder Operationen</li>

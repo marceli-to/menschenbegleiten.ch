@@ -1,12 +1,7 @@
 {
   "resources/css/app.css": {
-    "file": "assets/app-PAzjHH0d.css",
+    "file": "assets/app-BgVctBX1.css",
     "src": "resources/css/app.css",
-    "isEntry": true
-  },
-  "resources/css/maps.css": {
-    "file": "assets/maps-GfJRhZ55.css",
-    "src": "resources/css/maps.css",
     "isEntry": true
   },
   "resources/img/background-companion.avif": {
@@ -22,15 +17,9 @@
     "src": "resources/img/background-intro.avif"
   },
   "resources/js/app.js": {
-    "file": "assets/app-BRWTec0F.js",
+    "file": "assets/app-MratX3S_.js",
     "name": "app",
     "src": "resources/js/app.js",
-    "isEntry": true
-  },
-  "resources/js/maps.js": {
-    "file": "assets/maps-DMeYmqXd.js",
-    "name": "maps",
-    "src": "resources/js/maps.js",
     "isEntry": true
   }
 }

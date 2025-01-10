@@ -30,7 +30,7 @@ main ul:not(nav ul) p {
 }
 
 main ul:not(nav ul) li {
-  @apply ml-18 mb-6;
+  @apply ml-18 mb-4 xl:mb-6;
 }
 
 strong {

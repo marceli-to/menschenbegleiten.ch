@@ -20,7 +20,7 @@ export default {
       },
 
       maxWidth: {
-        prose: '700px',
+        prose: '740px',
         page: '1145px',
       },
 
