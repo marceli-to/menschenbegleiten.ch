@@ -1,5 +1,5 @@
 <footer class="bg-white w-full py-30 xl:py-40 relative">
-  <x-layout.inner>
+  <x-layout.inner class="relative z-60">
     <div class="flex flex-col gap-y-20 md:gap-y-30 lg:grid lg:grid-cols-12 lg:gap-x-40 lg:items-center">
       <div class="md:col-span-full lg:col-span-9 lg:flex lg:justify-start lg:items-center lg:gap-x-60 xl:gap-x-80">
         <x-icons.logo class="block w-full h-auto max-w-[240px] md:max-w-[300px]" />
@@ -13,7 +13,8 @@
         </address>
       </div>
       <div class="col-span-full lg:col-span-3">
-        <a href="/impressum" class="no-underline hover:underline underline-offset-4 decoration-1" title="Impressum">Impressum</a> · <a href="/datenschutz" title="Datenschutzerklärung" class="no-underline hover:underline underline-offset-4 decoration-1">Datenschutz</a><br>
+        <a href="{{ route('page.imprint') }}" class="no-underline hover:underline underline-offset-4 decoration-1" title="Impressum">Impressum</a> · 
+        <a href="{{ route('page.privacy') }}" title="Datenschutzerklärung" class="no-underline hover:underline underline-offset-4 decoration-1">Datenschutz</a><br>
         <a href="https://stoz.ch" class="no-underline hover:underline underline-offset-4 decoration-1" target="_blank" title="design by stoz">design by stoz</a>
       </div>
     </div>

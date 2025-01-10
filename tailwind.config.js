@@ -21,6 +21,7 @@ export default {
 
       maxWidth: {
         prose: '740px',
+        header: '1336px',
         page: '1145px',
       },
 

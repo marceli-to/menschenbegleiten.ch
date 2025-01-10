@@ -1,7 +1,6 @@
 <section 
   class="bg-intro bg-center bg-no-repeat bg-cover relative before:content-[''] before:block before:w-full before:h-full before:bg-white/80 before:absolute before:top-0 before:left-0 before:opacity-60 before:z-10">
-  <x-icons.logo class="w-full h-auto max-w-[240px] md:max-w-[300px] relative left-20 top-20 md:top-30 md:left-30 xl:left-75 xl:top-75 z-20 text-white" />
-  <x-layout.inner class="relative z-20 pt-60 pb-40 md:py-80 xl:pt-160">
+  <x-layout.inner class="relative z-20 pt-100 md:pt-140 xl:pt-200 pb-40 md:pb-80">
     <h1 class="font-bold text-xl md:text-2xl lg:text-3xl xl:text-4xl leading-[1.1] mb-30 xl:mb-80 text-pretty">
       Ganzheitliche Begleitung für<br>Gesundheit und Lebensfreude
     </h1>
