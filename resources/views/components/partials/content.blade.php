@@ -1,4 +1,4 @@
-<section class="bg-content bg-center bg-no-repeat bg-cover xl:py-80">
+<section class="bg-content bg-center bg-no-repeat bg-cover xl:pt-80">
   <x-layout.inner class="relative z-20">
     <h2 class="font-bold xl:text-xl xl:mb-25">
       Energiearbeit
@@ -32,4 +32,57 @@
       </div>
     </div>
   </x-layout.inner>
+
+  <div class="flex xl:mt-50 max-w-[1380px] mx-auto">
+    <x-icons.quote-left class="xl:w-140 h-auto relative xl:-translate-x-20" />
+    <div class="xl:text-md text-aqua border-y border-y-aqua flex items-center justify-center text-pretty text-center w-full xl:py-60">
+      <em>Die besondere Kombination von Energiearbeit und Massagen entspannt Körper und Geist.</em>
+    </div>
+    <x-icons.quote-right class="xl:w-140 h-auto relative xl:translate-x-20" />
+  </div>
+
+  <div class="bg-companion bg-center bg-no-repeat bg-cover xl:mt-70 xl:pt-70 xl:pb-80">
+    <x-layout.inner class="relative z-20">
+      <div class="absolute rounded-full h-[120%] w-[60%] xl:-left-100 bg-white/40 blur-xl"></div>
+      <div class="relative z-30">
+        <h2 class="font-bold xl:text-xl xl:mb-25">
+          Begleitung in der<br>letzten Lebensphase
+        </h2>
+        <div class="md:grid md:grid-cols-12 md:gap-20 xl:gap-40">
+          <div class="md:col-span-6">
+            <p>Die spirituelle Begleitung ist für viele Menschen eine grosse Hilfe, wenn sie sich mit dem nahenden Lebensende auseinandersetzen müssen. Ob durch eine schwere Krankheit oder wenn im fortgeschrittenen Alter die Kräfte nachlassen: unerwartete Emotionen können sich zeigen und Fragen, auf welche oft nur schwer Antworten zu finden sind, stellen sich. Mit einfühlsamer Unterstützung können anspruchsvolle Prozesse erleichtert werden. Individuell abgestimmt – durch Gespräche oder wohltuende Körperbehandlungen – entsteht Raum für Trost, Wohlbefinden, Zuversicht und Vertrauen.</p>
+            <p><strong>Ob Begleitung im Sterbeprozess oder Beratung für Angehörige, das Ziel ist, in diesen besonderen Momenten des Lebens da zu sein und Halt zu geben.</strong></p>
+          </div>
+        </div>
+      </div>
+    </x-layout.inner>
+  </div>
+
+  <div class="xl:pt-70 xl:pb-80">
+    <x-layout.inner class="relative z-20">
+      <h2 class="font-bold xl:text-xl xl:mb-25">
+        Erna Ineichen-Unternährer
+      </h2>
+      <div class="md:grid md:grid-cols-12 md:gap-20 xl:gap-40">
+        <div class="md:col-span-6">
+          <p><strong>Die «Hilfe zur Selbsthilfe» und die individuelle Begleitung Menschen aller Altersstufen und in verschiedensten Lebenssituationen sind für mich seit vielen Jahren von grosser Bedeutung. Regelmässige Weiterbildungen und viel Erfahrung bilden die Grundlage, Bedürfnisse rasch zu erkennen um bestmögliche Unterstützung zu bewirken.</strong></p>
+          <ul>
+            <li>
+              <strong>Med Masseurin VDMS / eidg. FA</strong><br>Ausbildung in Kinesiologie, Sportphysiotherapie sowie diverse weitere Zusatzausbildungen
+            </li>
+            <li>
+              <strong>Spirituelle Sterbebegleitung</strong><br>Ausbildung nach Dr. Gabriel Looser, Bern
+            </li>
+            <li>
+              <strong>Pflegefachfrau HF</strong>
+            </li>
+            <li>
+              <strong>Langjährige Erfahrung</strong> in Begleitung und Betreuung von Menschen mit Behinderungen sowie älteren Menschen.
+            </li>
+          </ul>
+        </div>
+      </div>
+    </x-layout.inner>
+  </div>
+  
 </section>

@@ -1,4 +1,4 @@
-<body class="font-figtree text-azure text-xs leading-[1.3] flex min-h-screen flex-col">
+<body class="font-figtree text-azure text-xs leading-[1.35] flex min-h-screen flex-col">
 {{ $slot }}
 @vite('resources/js/app.js')
 </body>

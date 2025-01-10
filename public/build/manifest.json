@@ -1,6 +1,6 @@
 {
   "resources/css/app.css": {
-    "file": "assets/app-BOBnjHpz.css",
+    "file": "assets/app-PAzjHH0d.css",
     "src": "resources/css/app.css",
     "isEntry": true
   },
@@ -8,6 +8,10 @@
     "file": "assets/maps-GfJRhZ55.css",
     "src": "resources/css/maps.css",
     "isEntry": true
+  },
+  "resources/img/background-companion.avif": {
+    "file": "assets/background-companion-de1TOfVv.avif",
+    "src": "resources/img/background-companion.avif"
   },
   "resources/img/background-content.avif": {
     "file": "assets/background-content-CeK1U5lX.avif",
