@@ -1,0 +1,42 @@
+@import "typo/webfonts.css";
+@import "vendor/swiper.css";
+@import "vendor/swiper-custom.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+[x-cloak] { display: none !important; }
+
+* {
+  font-variant-ligatures: none;
+}
+
+/* Global styles */
+main p {
+  @apply mb-20;
+}
+
+main p:last-child {
+  @apply mb-0;
+}
+
+main ul:not(nav ul) {
+  @apply list-disc m-0 mb-20;
+}
+
+main ul:not(nav ul) p {
+  @apply mb-0 inline;
+}
+
+main ul:not(nav ul) li {
+  @apply ml-18 mb-6;
+}
+
+strong {
+  @apply font-bold;
+}
+
+em {
+  @apply font-light italic;
+}

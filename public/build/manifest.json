@@ -1,0 +1,32 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-BOBnjHpz.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/css/maps.css": {
+    "file": "assets/maps-GfJRhZ55.css",
+    "src": "resources/css/maps.css",
+    "isEntry": true
+  },
+  "resources/img/background-content.avif": {
+    "file": "assets/background-content-CeK1U5lX.avif",
+    "src": "resources/img/background-content.avif"
+  },
+  "resources/img/background-intro.avif": {
+    "file": "assets/background-intro-DiMiR2u1.avif",
+    "src": "resources/img/background-intro.avif"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-BRWTec0F.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/js/maps.js": {
+    "file": "assets/maps-DMeYmqXd.js",
+    "name": "maps",
+    "src": "resources/js/maps.js",
+    "isEntry": true
+  }
+}

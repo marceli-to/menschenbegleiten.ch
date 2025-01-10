@@ -1,0 +1,13 @@
+
+.swiper {
+  @apply h-auto w-full
+}
+
+.swiper img {
+  @apply w-full h-auto object-cover lg:h-[calc(100dvh_-_60px)] lg:w-full 
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+  @apply !text-white
+}
