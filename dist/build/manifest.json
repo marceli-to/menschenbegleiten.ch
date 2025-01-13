@@ -1,0 +1,25 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-ROPtaJbm.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/img/background-companion.avif": {
+    "file": "assets/background-companion-de1TOfVv.avif",
+    "src": "resources/img/background-companion.avif"
+  },
+  "resources/img/background-content.avif": {
+    "file": "assets/background-content-CeK1U5lX.avif",
+    "src": "resources/img/background-content.avif"
+  },
+  "resources/img/background-intro.avif": {
+    "file": "assets/background-intro-DiMiR2u1.avif",
+    "src": "resources/img/background-intro.avif"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-MratX3S_.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}
