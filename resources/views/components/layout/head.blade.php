@@ -3,7 +3,7 @@ $siteTitle = trim($__env->yieldContent('site_title'));
 $title = $siteTitle ? "$siteTitle – " . __(env('APP_NAME')) : __(env('APP_NAME'));
 $description = trim($__env->yieldContent('page_description'));
 $description = $description ? $description : __(env('APP_DESCRIPTION'));
-$opengraph_image = 'opengraph.jpg';
+$opengraph_image = 'opengraph.png';
 @endphp
 <!doctype html>
 <html lang="de" class="scroll-smooth overflow-y-auto">
