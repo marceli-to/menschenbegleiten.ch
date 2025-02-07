@@ -1,4 +1,4 @@
-<section class="bg-content bg-center bg-no-repeat bg-cover pt-40 md:pt-60 xl:pt-80">
+<section class="bg-content bg-center bg-no-repeat bg-cover pt-40 md:pt-60 xl:pt-80 relative">
   <x-layout.inner class="relative z-20">
     <h2 class="font-bold text-md md:text-lg xl:text-xl mb-10 md:mb-15 xl:mb-25">
       Energiearbeit
@@ -58,7 +58,7 @@
     </x-layout.inner>
   </div>
 
-  <div class="py-40 md:py-60 xl:py-80">
+  <div class="bg-visual bg-right-bottom bg-no-repeat bg-contain py-40 md:py-60 xl:py-80 relative">
     <x-layout.inner class="relative z-20">
       <h2 class="font-bold text-md md:text-lg xl:text-xl mb-15 xl:mb-25">
         Erna Ineichen-Unternährer
@@ -84,5 +84,4 @@
       </div>
     </x-layout.inner>
   </div>
-  
 </section>

@@ -29,6 +29,7 @@ export default {
         'intro': "url('img/background-intro.avif')",
         'content': "url('img/background-content.avif')",
         'companion': "url('img/background-companion.avif')",
+        'visual': "url('img/background-visual.png')",
       },
 
       colors: {

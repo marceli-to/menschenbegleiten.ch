@@ -19,5 +19,4 @@
       </div>
     </div>
   </x-layout.inner>
-  <x-icons.visual class="absolute z-50 right-0 bottom-0 w-200 h-142 md:w-[300px] md:h-[213px] xl:w-[500px] xl:h-[364px]" />
 </footer>
